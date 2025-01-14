@@ -20,9 +20,9 @@ print(modulus)
 concatenated_string = string + "World"
 print(concatenated_string)
 
-andop=boolean and False
-orop=boolean or False
-notop= not boolean
+andop = boolean and False
+orop = boolean or False
+notop = not boolean
 
 print(andop)
 print(orop)
